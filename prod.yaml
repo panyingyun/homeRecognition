@@ -1,0 +1,13 @@
+camera:
+  deviceid: 0
+  # windows 640x480
+  # RaspberryPi  1920*1080
+  width: 1920
+  height: 1080
+window:
+  enable: true
+  title: FaceDetect Window
+  # windows 640x480
+  # RaspberryPi  1920*1080
+  width: 1920
+  height: 1080
